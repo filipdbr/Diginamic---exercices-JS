@@ -1,4 +1,4 @@
-// defining the array 
+// la declaration de tableau
 var array = [6,2,3,5,10,15,22];
 
 //2 conditions, la 1ère pour la langeur, la deuxième pour le nombre 6 au début ou à la fin
