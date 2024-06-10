@@ -9,8 +9,14 @@ for (i = array.length-1; i >= 0; i--) {
     copyArray[array.length-i-1] = array[i];
 }
 
-//priting the result 
+//priting the result of the copy 
 console.log("Copy of the array")
 for (i = 0; i < copyArray.length; i++) {
     console.log(copyArray[i]);
+}
+
+//priting the result of the original 
+console.log("Copy of the array")
+for (i = 0; i < array.length; i++) {
+    console.log(array[i]);
 }
